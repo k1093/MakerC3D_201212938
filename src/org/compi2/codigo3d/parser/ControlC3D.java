@@ -31,7 +31,8 @@ public class ControlC3D {
     public static String generaTemp(){
         return "t$"+temp++;
     }
-    
+  
+    //Genera todas L
     public static String generarL(){
     
         return "L"+ temp1++;
